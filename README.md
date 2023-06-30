@@ -9,7 +9,7 @@ react web project
 - install
 
 ```sh
-npx create-react-app@latest backroads-app
+npx create-react-app 'project name'
 ```
 
 - run dev server
